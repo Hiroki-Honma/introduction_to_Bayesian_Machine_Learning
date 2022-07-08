@@ -1,0 +1,2 @@
+# introduction_to_Bayesian_Machine_Learning
+ベイズ機械学習の勉強
